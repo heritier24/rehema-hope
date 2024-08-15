@@ -7,7 +7,7 @@
           <nav class="navbar navbar-light navbar-expand-xl" id="navBar">
             <a href="#" class="navbar-brand">
               <h4 class="text-primary display-6 fw-bold mb-0">
-                Dr karen<strong class="text-secondary"> & </strong>Dr Heritier
+                Mrs. Rehema<strong class="text-secondary"> & </strong>Mr. Hope
               </h4>
             </a>
             <button
@@ -57,7 +57,7 @@
         </ol>
         <div class="carousel-inner" role="listbox">
           <div class="carousel-item active">
-            <img src="img/carousel-1.jpg" class="img-fluid" alt="Image" />
+            <img src="img/CPXS8794.JPG" class="img-fluid" alt="Image" />
             <div class="carousel-caption">
               <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px">
                 <div
@@ -72,7 +72,7 @@
                   </h4>
                 </div>
                 <h1 class="display-1 text-capitalize text-white mb-3">
-                  karen <i class="fa fa-heart text-primary"></i> Heritier
+                  Rehema <i class="fa fa-heart text-primary"></i> Hope
                 </h1>
                 <div
                   class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-5"
@@ -82,7 +82,7 @@
                     class="text-white text-uppercase fw-bold mb-0"
                     style="letter-spacing: 3px"
                   >
-                    September 22 2024
+                    June 02 2024
                   </h4>
                 </div>
                 <div class="d-flex align-items-center justify-content-center">
@@ -96,7 +96,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-2.jpg" class="img-fluid" alt="Image" />
+            <img src="img/CPXS8774.jpg" class="img-fluid" alt="Image" />
             <div class="carousel-caption">
               <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px">
                 <div
@@ -111,7 +111,7 @@
                   </h4>
                 </div>
                 <h1 class="display-1 text-capitalize text-white mb-3">
-                  karen <i class="fa fa-heart text-primary"></i> Heritier
+                  Rehema <i class="fa fa-heart text-primary"></i> Hope
                 </h1>
                 <div
                   class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4"
@@ -136,7 +136,7 @@
           </div>
           <div class="carousel-item">
             <img
-              src="img/carousel-3.png"
+              src="img/CPXS8601.JPG"
               class="img-fluid bg-secondary"
               alt="Image"
             />
@@ -154,7 +154,7 @@
                   </h4>
                 </div>
                 <h1 class="display-1 text-capitalize text-white mb-3">
-                  karen <i class="fa fa-heart text-primary"></i> Heritier
+                  Rehema <i class="fa fa-heart text-primary"></i> Hope
                 </h1>
                 <div
                   class="d-inline-block border-end-0 border-start-0 border-secondary p-2 mb-4"
@@ -226,7 +226,7 @@
               <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="d-flex">
                   <div class="text-end my-auto pe-4">
-                    <h3 class="text-primary mb-3">karen</h3>
+                    <h3 class="text-primary mb-3">Rehema</h3>
                     <p class="text-dark mb-0" style="line-height: 30px">
                       Lorem Ipsum is simply dummy text of the printing and
                       typesetting industry. Lorem Ipsum has been the industry's
@@ -234,7 +234,7 @@
                     </p>
                   </div>
                   <img
-                    src="img/bride.jpg"
+                    src="img/CPXS9600.jpg" width="50%"
                     class="img-fluid img-border"
                     alt=""
                   />
@@ -248,12 +248,12 @@
               <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="d-flex">
                   <img
-                    src="img/Groom.jpg"
+                    src="img/CPXS9219.jpg" width="50%"
                     class="img-fluid img-border"
                     alt=""
                   />
                   <div class="my-auto ps-4">
-                    <h3 class="text-primary mb-3">Heritier</h3>
+                    <h3 class="text-primary mb-3">Hope</h3>
                     <p class="text-dark mb-0" style="line-height: 30px">
                       Lorem Ipsum is simply dummy text of the printing and
                       typesetting industry. Lorem Ipsum has been the industry's
@@ -294,7 +294,7 @@
         <div class="row g-5 align-items-center">
           <div class="col-xl-6 wow fadeIn" data-wow-delay="0.1s">
             <div class="border-white bg-primary" style="border-style: double">
-              <img src="img/about-1.jpg" class="img-fluid w-100" alt="" />
+              <img src="img/CPXS9402.jpg" height="50%" class="img-fluid w-100" alt="" />
             </div>
           </div>
           <div class="col-xl-6">
@@ -340,13 +340,13 @@
                         <div class="d-flex">
                           <div class="me-4">
                             <img
-                              src="img/bride.jpg"
+                              src="img/CPXS9600.jpg"
                               class="img-fluid w-100 img-border"
                               alt=""
                             />
                           </div>
                           <div class="text-start my-auto">
-                            <h5 class="text-white fw-bold">karen</h5>
+                            <h5 class="text-white fw-bold">Rehema</h5>
                             <p class="text-white mb-3">
                               Lorem Ipsum is simply dummy text of the printing
                               and typesetting industry.
@@ -384,13 +384,13 @@
                         <div class="d-flex">
                           <div class="me-4">
                             <img
-                              src="img/Groom.jpg"
+                              src="img/CPXS9219.jpg"
                               class="img-fluid w-100 img-border"
                               alt=""
                             />
                           </div>
                           <div class="text-start my-auto">
-                            <h5 class="text-white fw-bold">Heritier</h5>
+                            <h5 class="text-white fw-bold">Hope</h5>
                             <p class="text-white mb-3">
                               Lorem Ipsum is simply dummy text of the printing
                               and typesetting industry.
@@ -476,7 +476,7 @@
             >
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/story-1.jpg"
+                  src="img/CPXS8774.jpg"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -532,7 +532,7 @@
             <div class="col-md-6 border-start border-top border-secondary p-4">
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/story-2.jpg"
+                  src="img/CPXS8810.jpg"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -545,7 +545,7 @@
             >
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/story-3.jpg"
+                  src="img/CPXS9574.jpg"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -601,7 +601,7 @@
             <div class="col-md-6 border border-end-0 border-secondary p-4">
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/story-4.jpg"
+                  src="img/GB2A2411.jpg"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -641,7 +641,7 @@
                 class="text-dark text-uppercase fw-bold mb-0"
                 style="letter-spacing: 3px"
               >
-                September 22, 2024
+                June 02, 2024
               </h4>
             </div>
             <h1 class="display-4">We Are Getting Married</h1>
@@ -1607,7 +1607,7 @@
                   transform: translate(-50%, -50%);
                 "
               >
-                Kindly respond by September 22, 2024 we look forward to
+                Kindly respond by June 02, 2024 we look forward to
                 celebrating with you!
               </div>
               <form>
@@ -1781,7 +1781,7 @@
               <div class="p-4 border-secondary" style="border-style: double">
                 <h4>When</h4>
                 <p class="mb-0 text-dark">
-                  22. September 2024. at 7 o’clock in the afternoon
+                  02. June 2024. at 7 o’clock in the afternoon
                 </p>
               </div>
             </div>
@@ -1827,7 +1827,7 @@
           <div class="col-lg-4 text-center">
             <div class="footer-item">
               <h4 class="mb-4 text-white">
-                Dr Karen<strong class="text-primary"> & </strong>Dr Heritier
+                Mrs Rehema<strong class="text-primary"> & </strong>Mr Hope
               </h4>
               <p class="text-white">
                 Dolor amet sit justo amet elitr clita ipsum elitr est.Lorem
@@ -1889,14 +1889,14 @@
           <div class="col-md-6 text-center text-md-start mb-md-0">
             <span class="text-light"
               ><a href="#"
-                ><i class="fas fa-copyright text-light me-2"></i>Dr Karen & Dr
-                Heritier</a
+                ><i class="fas fa-copyright text-light me-2"></i>Mrs Rehema & Mr
+                Hope</a
               >, All right reserved.</span
             >
           </div>
           <div class="col-md-6 text-center text-md-end text-white">
             Designed By
-            <a class="border-bottom" href="#">Heritier Ganza Tamba</a>
+            <a class="border-bottom" href="#">Hope Ganza Tamba</a>
           </div>
         </div>
       </div>
