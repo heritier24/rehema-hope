@@ -96,7 +96,7 @@
             </div>
           </div>
           <div class="carousel-item">
-            <img src="img/CPXS8774.jpg" class="img-fluid" alt="Image" />
+            <img src="img/CPXS8774.JPG" class="img-fluid" alt="Image" />
             <div class="carousel-caption">
               <div class="p-3 mx-auto animated zoomIn" style="max-width: 900px">
                 <div
@@ -234,7 +234,7 @@
                     </p>
                   </div>
                   <img
-                    src="img/CPXS9600.jpg" width="50%"
+                    src="img/CPXS9600.JPG" width="50%"
                     class="img-fluid img-border"
                     alt=""
                   />
@@ -248,7 +248,7 @@
               <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="d-flex">
                   <img
-                    src="img/CPXS9219.jpg" width="50%"
+                    src="img/CPXS9219.JPG" width="50%"
                     class="img-fluid img-border"
                     alt=""
                   />
@@ -294,7 +294,7 @@
         <div class="row g-5 align-items-center">
           <div class="col-xl-6 wow fadeIn" data-wow-delay="0.1s">
             <div class="border-white bg-primary" style="border-style: double">
-              <img src="img/CPXS9402.jpg" height="50%" class="img-fluid w-100" alt="" />
+              <img src="img/CPXS9402.JPG" height="50%" class="img-fluid w-100" alt="" />
             </div>
           </div>
           <div class="col-xl-6">
@@ -340,7 +340,7 @@
                         <div class="d-flex">
                           <div class="me-4">
                             <img
-                              src="img/CPXS9600.jpg"
+                              src="img/CPXS9600.JPG"
                               class="img-fluid w-100 img-border"
                               alt=""
                             />
@@ -384,7 +384,7 @@
                         <div class="d-flex">
                           <div class="me-4">
                             <img
-                              src="img/CPXS9219.jpg"
+                              src="img/CPXS9219.JPG"
                               class="img-fluid w-100 img-border"
                               alt=""
                             />
@@ -476,7 +476,7 @@
             >
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/CPXS8774.jpg"
+                  src="img/CPXS8774.JPG"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -532,7 +532,7 @@
             <div class="col-md-6 border-start border-top border-secondary p-4">
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/CPXS8810.jpg"
+                  src="img/CPXS8810.JPG"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -545,7 +545,7 @@
             >
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/CPXS9574.jpg"
+                  src="img/CPXS9574.JPG"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -601,7 +601,7 @@
             <div class="col-md-6 border border-end-0 border-secondary p-4">
               <div class="d-inline-flex align-items-center h-100">
                 <img
-                  src="img/GB2A2411.jpg"
+                  src="img/GB2A2411.JPG"
                   class="img-fluid w-100 img-border"
                   alt=""
                 />
@@ -847,11 +847,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/GB2A1606.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1606.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/GB2A1606.jpg"
+                    href="img/GB2A1606.JPG"
                     data-lightbox="Gallery-1"
                     class="my-auto"
                     ><i
@@ -875,11 +875,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/GB2A1642.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1642.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/GB2A1642.jpg"
+                    href="img/GB2A1642.JPG"
                     data-lightbox="Gallery-2"
                     class="my-auto"
                     ><i
@@ -903,11 +903,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/GB2A1832.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1832.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/GB2A1832.jpg"
+                    href="img/GB2A1832.JPG"
                     data-lightbox="Gallery-3"
                     class="my-auto"
                     ><i
@@ -931,11 +931,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/GB2A1908.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1908.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/GB2A1908.jpg"
+                    href="img/GB2A1908.JPG"
                     data-lightbox="Gallery-4"
                     class="my-auto"
                     ><i
@@ -959,11 +959,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/GB2A2016.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A2016.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/GB2A2016.jpg"
+                    href="img/GB2A2016.JPG"
                     data-lightbox="Gallery-5"
                     class="my-auto"
                     ><i
@@ -987,11 +987,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/CPXS8601.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/CPXS8601.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/CPXS8601.jpg"
+                    href="img/CPXS8601.JPG"
                     data-lightbox="Gallery-6"
                     class="my-auto"
                     ><i
@@ -1015,11 +1015,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/CPXS8810.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/CPXS8810.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/CPXS8810.jpg"
+                    href="img/CPXS8810.JPG"
                     data-lightbox="Gallery-7"
                     class="my-auto"
                     ><i
@@ -1043,11 +1043,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/CPXS9574.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/CPXS9574.JPG" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/CPXS9574.jpg"
+                    href="img/CPXS9574.JPG"
                     data-lightbox="Gallery-8"
                     class="my-auto"
                     ><i
@@ -1119,7 +1119,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2604.jpg"
+                    src="img/GB2A2604.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1177,7 +1177,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2606.jpg"
+                    src="img/GB2A2606.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1235,7 +1235,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2748.jpg"
+                    src="img/GB2A2748.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1293,7 +1293,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2748.jpg"
+                    src="img/GB2A2748.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1351,7 +1351,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2732.jpg"
+                    src="img/GB2A2732.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1409,7 +1409,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2750.jpg"
+                    src="img/GB2A2750.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1467,7 +1467,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2676.jpg"
+                    src="img/GB2A2676.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1525,7 +1525,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/GB2A2609.jpg"
+                    src="img/GB2A2609.JPG"
                     class="img-fluid w-100"
                     alt=""
                   />
