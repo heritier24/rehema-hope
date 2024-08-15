@@ -847,11 +847,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-1.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1606.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-1.jpg"
+                    href="img/GB2A1606.jpg"
                     data-lightbox="Gallery-1"
                     class="my-auto"
                     ><i
@@ -875,11 +875,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-2.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1642.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-2.jpg"
+                    href="img/GB2A1642.jpg"
                     data-lightbox="Gallery-2"
                     class="my-auto"
                     ><i
@@ -903,11 +903,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-3.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1832.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-3.jpg"
+                    href="img/GB2A1832.jpg"
                     data-lightbox="Gallery-3"
                     class="my-auto"
                     ><i
@@ -931,11 +931,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-4.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A1908.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-4.jpg"
+                    href="img/GB2A1908.jpg"
                     data-lightbox="Gallery-4"
                     class="my-auto"
                     ><i
@@ -959,11 +959,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-5.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/GB2A2016.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-5.jpg"
+                    href="img/GB2A2016.jpg"
                     data-lightbox="Gallery-5"
                     class="my-auto"
                     ><i
@@ -987,11 +987,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-6.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/CPXS8601.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-6.jpg"
+                    href="img/CPXS8601.jpg"
                     data-lightbox="Gallery-6"
                     class="my-auto"
                     ><i
@@ -1015,11 +1015,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-7.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/CPXS8810.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-7.jpg"
+                    href="img/CPXS8810.jpg"
                     data-lightbox="Gallery-7"
                     class="my-auto"
                     ><i
@@ -1043,11 +1043,11 @@
           >
             <div class="gallery-item">
               <div class="gallery-img">
-                <img class="img-fluid w-100" src="img/gallery-8.jpg" alt="" />
+                <img class="img-fluid w-100" src="img/CPXS9574.jpg" alt="" />
                 <div class="hover-style"></div>
                 <div class="search-icon">
                   <a
-                    href="img/gallery-8.jpg"
+                    href="img/CPXS9574.jpg"
                     data-lightbox="Gallery-8"
                     class="my-auto"
                     ><i
