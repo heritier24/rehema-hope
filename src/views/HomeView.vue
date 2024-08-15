@@ -1119,7 +1119,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/bridesmaid-1.png"
+                    src="img/GB2A2604.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1177,7 +1177,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/bridesmaid-team-2.png"
+                    src="img/GB2A2606.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1235,7 +1235,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/bridesmaid-3.png"
+                    src="img/GB2A2748.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1293,7 +1293,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/bridesmaid-4.png"
+                    src="img/GB2A2748.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1351,7 +1351,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/Groomsmen-1.png"
+                    src="img/GB2A2732.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1409,7 +1409,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/Groomsmen-2.png"
+                    src="img/GB2A2750.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1467,7 +1467,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/Groomsmen-3.png"
+                    src="img/GB2A2676.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1525,7 +1525,7 @@
               <div class="team-img">
                 <div class="team-img-main">
                   <img
-                    src="img/Groomsmen-4.png"
+                    src="img/GB2A2609.jpg"
                     class="img-fluid w-100"
                     alt=""
                   />
@@ -1896,7 +1896,7 @@
           </div>
           <div class="col-md-6 text-center text-md-end text-white">
             Designed By
-            <a class="border-bottom" href="#">Hope Ganza Tamba</a>
+            <a class="border-bottom" href="#">Heritier Ganza Tamba</a>
           </div>
         </div>
       </div>
