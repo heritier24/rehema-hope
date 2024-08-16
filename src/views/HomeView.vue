@@ -442,7 +442,7 @@
                   </div>
                   <div class="d-flex flex-column flex-nowrap">
                     <h5 class="text-dark fw-bold mb-2">Call Us Anytime</h5>
-                    <h4 class="text-primary mb-0">+250782761525</h4>
+                    <h4 class="text-primary mb-0">+250789326245</h4>
                   </div>
                 </div>
               </div>
@@ -1149,7 +1149,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
+                  <h5 class="text-white display-6 mb-1">Rehema Uwera</h5>
                   <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
                 </div>
               </div>
@@ -1207,7 +1207,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
+                  <h5 class="text-white display-6 mb-1">Rehema Uwera</h5>
                   <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
                 </div>
               </div>
@@ -1265,7 +1265,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
+                  <h5 class="text-white display-6 mb-1">Rehema Uwera</h5>
                   <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
                 </div>
               </div>
@@ -1323,7 +1323,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">Amelia Alex</h5>
+                  <h5 class="text-white display-6 mb-1">Rehema Uwera</h5>
                   <h5 class="text-white fs-5 mb-0">Bridesmaid</h5>
                 </div>
               </div>
@@ -1381,7 +1381,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">David John</h5>
+                  <h5 class="text-white display-6 mb-1">Mr Hope</h5>
                   <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
                 </div>
               </div>
@@ -1439,7 +1439,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">David John</h5>
+                  <h5 class="text-white display-6 mb-1">Mr Hope</h5>
                   <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
                 </div>
               </div>
@@ -1497,7 +1497,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">David John</h5>
+                  <h5 class="text-white display-6 mb-1">Mr Hope</h5>
                   <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
                 </div>
               </div>
@@ -1555,7 +1555,7 @@
               </div>
               <div class="team-content">
                 <div class="d-flex flex-column p-4">
-                  <h5 class="text-white display-6 mb-1">David John</h5>
+                  <h5 class="text-white display-6 mb-1">Mr Hope</h5>
                   <h5 class="text-white fs-5 mb-0">Groomsmen</h5>
                 </div>
               </div>
@@ -1774,7 +1774,7 @@
             <div class="col-md-4 wow fadeIn" data-wow-delay="0.1s">
               <div class="p-4 border-secondary" style="border-style: double">
                 <h4>Call Us Now</h4>
-                <a href="#" class="text-dark">+250 782 761 525</a>
+                <a href="#" class="text-dark">+250789326245</a>
               </div>
             </div>
             <div class="col-md-4 wow fadeIn" data-wow-delay="0.3s">
